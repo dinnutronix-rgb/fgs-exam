@@ -3,5 +3,5 @@
  *  It looks like: https://script.google.com/macros/s/AKfycb.../exec
  */
 window.FGS_CONFIG = {
-  apiUrl: 'PASTE_YOUR_WEB_APP_URL_HERE'
+  apiUrl: 'https://script.google.com/macros/s/AKfycbyj3sClLlimkrZr9SnAeZVPYzTH0sBWty2OnV4gelSLDwNNs-u6TAggks3gQlR9bZgq/exec'
 };
